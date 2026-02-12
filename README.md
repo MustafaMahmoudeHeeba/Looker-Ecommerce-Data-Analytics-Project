@@ -16,6 +16,8 @@ The solution follows Medallion Architecture:
 Raw Data → Bronze → Silver → Gold → Power BI
 
 The Gold Layer is modeled using a Galaxy Schema (multiple fact tables sharing common dimensions) to support scalable and flexible analytics.
+
+Galaxy Schema :
 ![image alt](https://github.com/MustafaMahmoudeHeeba/Looker-Ecommerce-Data-Analytics-Project/blob/main/DWH/Galaxy-Schema.png)
 
 BI Dashboards ---
