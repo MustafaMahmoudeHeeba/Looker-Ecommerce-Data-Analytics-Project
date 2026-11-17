@@ -23,15 +23,15 @@ Galaxy Schema :
 3-BI Dashboards
 
 The Gold layer feeds Power BI dashboards that provide:
-Customer insights
-Sales & revenue analysis
-Product & country performance
+Customer insights, 
+Sales & revenue analysis, 
+Product & country performance, 
 Price vs sales analysis
 
 4-Tech Stack
 
-SQL (ETL & Data Modeling)
-Data Warehouse
-Medallion Architecture
-Galaxy Schema
+SQL (ETL & Data Modeling), 
+Data Warehouse, 
+Medallion Architecture, 
+Galaxy Schema, 
 Power BI
